@@ -1,0 +1,169 @@
+body{
+    background: url(img/white-paper.png) ;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.text{
+    color: rgb(29, 55, 92);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'SO';
+}
+.cont_555{
+    display:flex;
+    justify-content: center;
+}
+.cont_10{
+    max-width: 1110px;
+    margin: 0 auto ;
+    
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.product_img{
+    border: 5px solid mediumslateblue;
+    height: 300px; ;
+    width: 325px; ;
+    border-radius: 7px;
+}
+.header_1img{
+    display: block;
+    width: 100%;
+}
+.product_info-title{
+    color: rgb(56, 32, 111);
+    font-family: 'SO';
+}
+.product_info{
+    text-align: center;
+    color:rgb(56, 32, 111) ;
+
+}
+.about_product{
+    max-width: 325px;
+}
+.so1234{
+    font-family:'SO' ;
+}
+.main-info{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.main-left-title{
+    font-family:'SO' ;
+    color: rgb(215, 109, 71);
+    font-size: 25px;
+    text-align: center;
+    background:  rgb(251, 211, 112) ;
+    padding: 10px;
+    border-radius: 20px;
+    width: max-content;
+    text-shadow: 2px 3px 0px rgb(96, 34, 12);
+    margin-bottom: 25px;
+}
+.main-left{
+    width: 45%;
+
+}
+.main-left-text{
+    text-align: justify;
+}
+.main-left-text{
+    font-family:'SO' ;
+    font-size: 20px;
+    
+}
+.main-right{
+    align-items: center ;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+   
+}
+
+.main-right-text{
+    font-family: 'SO';
+    font-size: 18px;
+    color: coral;
+    margin-left: 25px;
+    text-align: justify;
+    width: 50%;
+    line-height: 22px;
+
+}
+.main-right-title{
+    font-family:'SO' ;
+    color: rgb(215, 109, 71);
+    font-size: 25px;
+    text-align: center;
+    background:  rgb(251, 211, 112) ;
+    padding: 10px;
+    border-radius: 20px;
+    text-shadow: 2px 3px 0px rgb(96, 34, 12);
+    margin-bottom: 25px;
+}
+.cont_11{
+    display: flex;
+}
+.main-right-item{
+    display: flex;
+    margin-top: 22px;
+}
+.main-right-img{
+    border: 5px solid coral;
+    border-radius: 10px;
+    display: block;
+}
+.left_1{
+    
+
+    
+}
+footer{
+    background:rgb(251, 211, 112);
+    padding: 10px 0;
+    margin-top: 50px;
+}
+.left_text{
+    font-family:'SO' ;
+}
+.left_text_lol{
+    font-family:'SO' ;
+}
+.right_1{
+    
+    display: flex;
+    flex-direction: column;
+    
+   
+
+}
+.right_text{
+    font-family:'SO' ;
+}
+.right_text_2{
+    font-family:'SO' ;
+    
+}
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: 100px;
+}
+.info_a{
+    
+    background-color:rgb(251, 211, 112) ;
+}
+.a_link{
+    color:rgb(215, 109, 71) ;
+    margin-left: 15px;
+}
+
